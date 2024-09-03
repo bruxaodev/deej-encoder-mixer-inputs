@@ -25,7 +25,7 @@ Encoder encoders[numEncoders] = {
 };
 
 bool VOLUM_MODE = true;
-int SWITCH_MODE_INDEX = 3;
+int SWITCH_MODE_INDEX = 0;
 
 //JOYSTICK_TYPE_JOYSTICK
 //JOYSTICK_TYPE_GAMEPAD
